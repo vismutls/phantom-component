@@ -1,0 +1,19 @@
+{
+  "name": "phantom-component",
+  "version": "1.0.1",
+  "description": "Render react component without div wrapper",
+  "main": "index.js",
+  "github": "https://github.com/vismutls/render-component",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "component",
+    "element",
+    "div",
+    "wrapper"
+  ],
+  "author": "Vladislav Rostov",
+  "license": "ISC"
+}
