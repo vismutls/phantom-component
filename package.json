@@ -3,9 +3,12 @@
   "version": "1.0.1",
   "description": "Render react component without div wrapper",
   "main": "index.js",
-  "github": "https://github.com/vismutls/render-component",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vismutls/phantom-component"
   },
   "keywords": [
     "react",
@@ -15,5 +18,9 @@
     "wrapper"
   ],
   "author": "Vladislav Rostov",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vismutls/phantom-component/issues"
+  },
+  "homepage": "https://github.com/vismutls/phantom-component#readme"
 }
